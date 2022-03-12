@@ -1,0 +1,31 @@
+@import "index.css";
+
+.intro-text {
+    text-align: left;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    margin-bottom: 15rem;
+}
+
+.form-group {
+    text-align: left;
+    margin-bottom: 1rem;
+}
+
+.card {
+    padding: 0 0.5rem;
+}
+.card-register {
+    margin-top: -14rem;
+}
+
+.radio-group {
+    margin-left: 0.2rem;
+    margin-top: 0.2rem;
+}
+
+.control-label:after {
+  margin-left: 0.2rem;
+  content:"*";
+  color:red;
+}
