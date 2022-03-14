@@ -17,6 +17,7 @@
 }
 .card-register {
     margin-top: -14rem;
+    z-index: 999;
 }
 
 .radio-group {
